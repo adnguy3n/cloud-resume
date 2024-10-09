@@ -86,7 +86,7 @@ header {
   margin: 0 auto;
 }
 
-.section-header{
+.resume-header{
   font-size: 56px;
   font-weight: 900;
   width: 100%;
@@ -94,34 +94,35 @@ header {
   text-align: center;
 }
 
-.section-container {
+.resume-container {
   display: flex;
   flex-direction: row;
   border-bottom: 1px solid #ddd;
   padding: 1rem 0rem;
 }
 
-.section-container h2 {
+.resume-container h2 {
     display: block;
     min-width: 25%;
     max-width: auto;
 }
 
-.section-skills {
+.resume-skills {
   columns: 2;
   -webkit-columns: 2;
   -moz-columns: 2;
+  column-gap: 10rem;
 }
 
-.section-experience {
+.resume-experience {
   padding-bottom: 1rem;
 }
 
-.section-experience ul {
+.resume-experience ul {
   padding-top: .25rem;
 }
 
-.section-content {
+.resume-content {
   display: block;
   max-width: 80%;
   color: black;
@@ -133,11 +134,11 @@ header {
     display: block;
 }
   
-  .section-header{
+  .resume-header{
     font-size: 42px;
   }
 
-  .section-container {
+  .resume-container {
     display: flex;
     flex-direction: column;
     border-bottom: 1px solid #ddd;
@@ -147,11 +148,11 @@ header {
 
 /* Mobile */
 @media (max-width:425px) {
-  .section-header{
+  .resume-header{
     font-size: 36px;
   }
 
-  .section-container>h2 {
+  .resume-container>h2 {
       width: 100%;
   }
 

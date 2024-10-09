@@ -21,6 +21,14 @@ body {
   letter-spacing: .008em;
 }
 
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 18px;
+}
+
 /* navbar */
 
 header {
@@ -69,4 +77,82 @@ header {
 
 .navbar .navbar-btn-2:hover {
   background: var(--hover-color);
+}
+
+/* Resume */
+
+.wrapper {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.section-header{
+  font-size: 56px;
+  font-weight: 900;
+  width: 100%;
+  margin-top: 2.25rem;
+  text-align: center;
+}
+
+.section-container {
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid #ddd;
+  padding: 1rem 0rem;
+}
+
+.section-container h2 {
+    display: block;
+    min-width: 25%;
+    max-width: auto;
+}
+
+.section-skills {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+.section-experience {
+  padding-bottom: 1rem;
+}
+
+.section-experience ul {
+  padding-top: .25rem;
+}
+
+.section-content {
+  display: block;
+  max-width: 80%;
+  color: black;
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .hamburger {
+    display: block;
+}
+  
+  .section-header{
+    font-size: 42px;
+  }
+
+  .section-container {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid #ddd;
+    padding: 0.5rem 0rem;
+  }
+}
+
+/* Mobile */
+@media (max-width:425px) {
+  .section-header{
+    font-size: 36px;
+  }
+
+  .section-container>h2 {
+      width: 100%;
+  }
+
 }

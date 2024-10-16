@@ -128,6 +128,10 @@ header {
   padding-top: .25rem;
 }
 
+.resume-projects ul{
+  padding-bottom: 1rem;
+}
+
 /* Tablet */
 @media (max-width: 768px) {
   .hamburger {

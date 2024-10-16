@@ -107,6 +107,12 @@ header {
     max-width: auto;
 }
 
+.resume-content {
+  display: block;
+  max-width: 80%;
+  color: black;
+}
+
 .resume-skills {
   columns: 2;
   -webkit-columns: 2;
@@ -120,12 +126,6 @@ header {
 
 .resume-experience ul {
   padding-top: .25rem;
-}
-
-.resume-content {
-  display: block;
-  max-width: 80%;
-  color: black;
 }
 
 /* Tablet */

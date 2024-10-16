@@ -120,12 +120,9 @@ header {
   column-gap: 10rem;
 }
 
-.resume-experience {
-  padding-bottom: 1rem;
-}
-
 .resume-experience ul {
   padding-top: .25rem;
+  padding-bottom: 1rem;
 }
 
 .resume-projects ul{

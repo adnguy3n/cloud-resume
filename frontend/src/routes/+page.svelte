@@ -8,7 +8,7 @@
     <h2>Profile</h2>
     <div class="resume-content">
         <p>
-        Computer Science graduate and tech enthusiast with experience as a software developer. Proficient in Go, Python, and Typescript. Familiar with Linux environments. Experienced with Agile Software Development and working in Cross-Functional Teams. Supportive of open source development and enjoys participating in tech communities.
+            Computer Science graduate and tech enthusiast with experience as a software developer. Proficient in Go, Python, and Typescript. Familiar with Linux environments. Experienced with Agile Software Development and working in Cross-Functional Teams. Supportive of open source development and enjoys participating in tech communities.
         </p>
     </div>
     </section>
@@ -43,13 +43,13 @@
         <br>June 2022 - June 2023
         <ul>
             <li>
-            Developed extensions for Configura's Space Planning Software in a cross-functional team using Configura's proprietary programming language.
+                Developed extensions for Configura's Space Planning Software in a cross-functional team using Configura's proprietary programming language.
             </li>
             <li>
-            Programmed virtual representations of office furniture, including their functionalities, to be placed into a 3D virtual environment.
+                Programmed virtual representations of office furniture, including their functionalities, to be placed into a 3D virtual environment.
             </li>
             <li>
-            Collaborated with client companies on projects and maintained diverse code bases.
+                Collaborated with client companies on projects and maintained diverse code bases.
             </li>
         </ul>
 
@@ -59,10 +59,10 @@
         <br>February 2022 - June 2022
         <ul>
             <li>
-            Learned Configura's proprietary programming language, CM.
+                Learned Configura's proprietary programming language, CM.
             </li>
             <li>
-            Implemented a REST CRUD API in CM with .NET calls.
+                Implemented a REST CRUD API in CM with .NET calls.
             </li>
         </ul>
         </div>

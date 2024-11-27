@@ -75,7 +75,7 @@
         <div class ="resume-projects">
         <h3>Cloud Resume Challenge</h3>
         <ul>
-            <li>Technologies Used:</li>
+            <li>Technologies Used: Typescript, HTML, CSS, Svelte, AWS</li>
             <li><a href="https://github.com/adnguy3n/cloud-resume">Github Link</a></li>
         </ul>
         <h3>Pokemon Secret Base Editor</h3>

@@ -5,4 +5,6 @@
 
 <Navbar />
 
-{@render children()}
+<article class="wrapper">
+    {@render children()}
+</article>

@@ -38,7 +38,7 @@
 <div class="resume-content">
     <div class="resume-experience">
     <h3>Software Developer</h3>
-    <a href="https://www.configura.com/">Configura</a>
+    <a href="https://www.configura.com/" target="_blank">Configura</a>
     <br>Grand Rapids, MI
     <br>June 2022 - June 2023
     <ul>
@@ -54,7 +54,7 @@
     </ul>
 
     <h3>Intern</h3>
-    <a href="https://www.configura.com/">Configura</a>
+    <a href="https://www.configura.com/" target="_blank">Configura</a>
     <br>Grand Rapids, MI
     <br>February 2022 - June 2022
     <ul>
@@ -76,17 +76,17 @@
     <h3>Cloud Resume Challenge</h3>
     <ul>
         <li>Technologies Used: Typescript, HTML, CSS, Svelte, AWS</li>
-        <li><a href="https://github.com/adnguy3n/cloud-resume">Github Link</a></li>
+        <li><a href="https://github.com/adnguy3n/cloud-resume" target="_blank">Github Link</a></li>
     </ul>
     <h3>Pokemon Secret Base Editor</h3>
     <ul>
         <li>Technologies Used: Python</li>
-        <li><a href="https://github.com/adnguy3n/secret-base-editor">Github Link</a></li>
+        <li><a href="https://github.com/adnguy3n/secret-base-editor" target="_blank">Github Link</a></li>
     </ul>
     <h3>AWS Virtual Table Top Server</h3>
     <ul>
         <li>Technologies Used: AWS EC2, S3, IAM</li>
-        <li><a href="https://github.com/adnguy3n">Github Link</a></li>
+        <li><a href="https://github.com/adnguy3n" target="_blank">Github Link</a></li>
     </ul>
     </div>
 </div>

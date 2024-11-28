@@ -22,6 +22,8 @@
     <li>Typescript</li>
     <li>HTML</li>
     <li>CSS</li>
+    <li>React</li>
+    <li>Svelte</li>
     <li>Java</li>
     <li>C</li>
     <li>C++</li>
@@ -87,6 +89,11 @@
     <ul>
         <li>Technologies Used: AWS EC2, S3, IAM</li>
         <li><a href="https://github.com/adnguy3n" target="_blank">Github Link</a></li>
+    </ul>
+    <h3>Blog Website</h3>
+    <ul>
+        <li>Technologies Used: Go, Javascript, React, HTML, CSS, Tailwind, SQLite, Docker</li>
+        <li><a href="https://github.com/adnguy3n/Go-Blog-Website" target="_blank">Github Link</a></li>
     </ul>
     </div>
 </div>

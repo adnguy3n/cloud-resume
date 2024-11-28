@@ -13,7 +13,7 @@
               <a href="/blog" class="nav-link">Blog</a>
             </li>
             <li class="navbar-btn-1">
-              <a href="/#footer" class="nav-link">Contact</a>
+              <a href="#footer" class="nav-link">Contact</a>
             </li>
             <li class="navbar-btn-2">
               <a href="/" class="nav-link">⤓ Resume</a>

@@ -18,7 +18,7 @@ crossorigin="anonymous" referrerpolicy="no-referrer" />
             </a>
         </li>
         <li>
-            <a href="https://https://github.com/adnguy3n" target="_blank">
+            <a href="https://github.com/adnguy3n" target="_blank">
                 <i class="fa-brands fa-github"></i>
                 GitHub
             </a>

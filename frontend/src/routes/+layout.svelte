@@ -1,6 +1,6 @@
 <script>
     import Navbar from "$lib/components/Navbar.svelte";
-    import Contact from "$lib/components/Contact.svelte"
+    import Footer from "$lib/components/Footer.svelte"
 	let { children } = $props()
 </script>
 
@@ -10,4 +10,4 @@
     {@render children()}
 </article>
 
-<Contact />
+<Footer />

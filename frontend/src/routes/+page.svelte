@@ -18,19 +18,20 @@
     <div class="resume-content">
         <ul class="resume-skills">
             <li>Go</li>
-            <li>Python</li>
             <li>Typescript</li>
-            <li>HTML</li>
             <li>CSS</li>
+            <li>Git</li>
+            <li>AWS</li>
+            <li>C</li>
+            <li>C#</li>
+            <!-- Second Column-->
+            <li>Python</li>
+            <li>HTML</li>
             <li>React</li>
             <li>Svelte</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>C++</li>
-            <li>C#</li>
-            <li>AWS</li>
-            <li>Git</li>
             <li>Linux (Debian, Ubuntu)</li>
+            <li>C++</li>
+            <li>Java</li>
         </ul>
     </div>
 </section>

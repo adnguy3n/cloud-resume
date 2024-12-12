@@ -6,8 +6,6 @@
 
 <Navbar />
 
-<article class="wrapper">
-    {@render children()}
-</article>
+{@render children()}
 
 <Footer />

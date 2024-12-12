@@ -16,7 +16,7 @@
               <a href="#footer" class="nav-link">Contact</a>
             </li>
             <li class="navbar-btn-2">
-              <a href="/" class="nav-link">⤓ Resume</a>
+              <a href="./src/lib/assets/Anthony-Nguyen-Resume.pdf" download class="nav-link">⤓ Resume</a>
             </li>
           </ul>
       </div>

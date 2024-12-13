@@ -36,7 +36,7 @@ header {
 }
 
 .navbar {
-  max-width: 80%;
+  width: 100%;
   margin: 0 auto;
   background-color: black;
   color: var(--white-text-color);
@@ -46,8 +46,10 @@ header {
   align-items: center;
   font-weight: bold;
   letter-spacing: .10rem;
-  padding: 0px 0px;
+  padding: 0 10%;
   line-height: 2.5rem;
+  position: fixed;
+  top: 0;
 }
 
 .navbar a {

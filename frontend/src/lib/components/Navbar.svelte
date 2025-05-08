@@ -10,7 +10,7 @@
 
           <ul>
             <li class="navbar-btn-1">
-              <a href="/blog" class="nav-link">Blog</a>
+              <a href="./blog.html" class="nav-link">Blog</a>
             </li>
             <li class="navbar-btn-1">
               <a href="#footer" class="nav-link">Contact</a>

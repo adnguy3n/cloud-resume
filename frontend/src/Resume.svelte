@@ -154,7 +154,7 @@
         <br>
         Graduated April 2022
 
-        <h3>Bachelor of Science in Cyber Security</h3>
+        <h3 style="padding-top: 1rem">Bachelor of Science in Cyber Security</h3>
         <a href="https://www.gvsu.edu/" target="_blank">Grand Valley State University</a>
         <br>
         Allendale, MI

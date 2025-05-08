@@ -40,7 +40,7 @@
                 <li>HTML</li>
                 <li>React</li>
                 <li>Svelte</li>
-                <li>Linux (Debian, Ubuntu)</li>
+                <li>Linux (Arch, Debian)</li>
                 <li>C++</li>
                 <li>Java</li>
             </ul>
@@ -148,11 +148,18 @@
     </h2>
     <div class="resume-content">
         <h3>Bachelor of Science in Computer Science</h3>
-        Grand Valley State University
+        <a href="https://www.gvsu.edu/" target="_blank">Grand Valley State University</a>
         <br>
         Allendale, MI
         <br>
         Graduated April 2022
+
+        <h3>Bachelor of Science in Cyber Security</h3>
+        <a href="https://www.gvsu.edu/" target="_blank">Grand Valley State University</a>
+        <br>
+        Allendale, MI
+        <br>
+        Expected Graduation 2027
     </div>
     </section>
   </article>

@@ -7,7 +7,7 @@ const config = {
 
 	kit: {
 		adapter: adapter({
-      // default options are shown. On some platforms
+      		// default options are shown. On some platforms
 			// these options are set automatically — see below
 			pages: 'build',
 			assets: 'build',
@@ -15,11 +15,11 @@ const config = {
 			precompress: false,
 			strict: true
     }),
-    alias: {
-      $components: 'src/components',
-      $lib: 'src/lib',
-      $routes: 'src/routes',
-    }
+    	alias: {
+      		$components: 'src/components',
+      		$lib: 'src/lib',
+      		$routes: 'src/routes',
+    	}
 	}
 };
 

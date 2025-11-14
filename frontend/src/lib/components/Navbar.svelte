@@ -1,6 +1,6 @@
 <header>
     <nav class="navbar">
-      <a href="/" class="navbar-btn-1">Home</a>
+      <a href="/nguyeant-cloud-resume-challenge/" class="navbar-btn-1">Home</a>
         <div class="nav-menu">
           <div class="navbar-mobile-menu">
             <span class="mobile-bar"></span>
@@ -10,13 +10,13 @@
 
           <ul>
             <li class="navbar-btn-1">
-              <a href="/blog" class="nav-link">Blog</a>
+              <a href="/nguyeant-cloud-resume-challenge/blog" class="nav-link">Blog</a>
             </li>
             <li class="navbar-btn-1">
               <a href="#footer" class="nav-link">Contact</a>
             </li>
             <li class="navbar-btn-2">
-              <a href="/Anthony-Nguyen-Resume.pdf" download class="nav-link">⤓ Resume</a>
+              <a href="/nguyeant-cloud-resume-challenge/Anthony-Nguyen-Resume.pdf" download class="nav-link">⤓ Resume</a>
             </li>
           </ul>
       </div>

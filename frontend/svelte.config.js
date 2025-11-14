@@ -14,7 +14,7 @@ const config = {
 			relative: true
     }),
 		paths: {
-            base: '', 
+            base: '/nguyeant-cloud-resume-challenge', 
         },
     	alias: {
       		$components: 'src/components',

@@ -3,6 +3,8 @@ import adapter from '@sveltejs/adapter-static';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
+  preprocess: vitePreprocess(),
+
 	kit: {
 		adapter: adapter({
       // default options are shown. On some platforms
@@ -21,8 +23,4 @@ const config = {
 	}
 };
 
-export default {
-  // Consult https://svelte.dev/docs#compile-time-svelte-preprocess
-  // for more information about preprocessors
-  preprocess: vitePreprocess(),
-}
+export default config;
